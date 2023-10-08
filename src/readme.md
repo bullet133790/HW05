@@ -1,4 +1,4 @@
 # Description
 This is homework of lession 5.
 
-There is 5 main tasks and 2 extra.
+There is 5 main tasks 
